@@ -1,1 +1,2 @@
-# Dice-Roller-Game-JS
+# Dice-Roller-Game
+HTML, CSS, JavaScript Game
